@@ -1,3 +1,3 @@
-# Simple script to automate vscode liveshare link conversion
+# simple script to automate vscode liveshare link conversion
 
-- python liveshare.py '<your_link>'
+- `python liveshare.py '<your_link>'`
